@@ -1,7 +1,8 @@
 Deutsch:
 Die "logo.png" Datei muss sich im selben Ordner wie die "SC Shader Delete.exe" befinden
 Sollte dieses Programm genutzt werden werde ich es noch erweitern.
--------UPDATE-------
+
+-------UPDATE v2.0-------
 SC Shader Delete-V2
 Kann alternativ herunter geladen werden, dieser Startet nach dem löschen des Shaders den RSI Launscher.
 Beim ersten ausführen müssen sie den Pfad zum RSI Launscher angeben.
@@ -9,13 +10,22 @@ Bei einer Fehlermeldung muss das Programm mit Administrator Rechten gestartet we
 Rechtsklick Als Aministrator Starten.
 Weiterhin muss sich die Datei logo.png im selben ordner wie das Programm befinden
 
+-------UPDATE v2.2-------
+Checkbox hinzugefügt: bei Aktivierung schließt sich das Programm nach dem löschen der shader und dem Starten des Launschers Automatisch
+Zustand der Checkbox wird in der CFG gespeichert um die vorlieben des benutzers beizubehalten
+
+
 English:
 The "logo.png" file must be in the same folder as the "SC Shader Delete.exe." 
 If this program is used, I will expand it further.
--------UPDATE-------
+-------UPDATE v2.0-------
 SC Shader Delete-V2
 Alternatively, it can be downloaded, and it launches the RSI Launcher after deleting the shader.
 When first run, you must specify the path to the RSI Launcher. 
 In case of an error message, the program must be started with administrator rights. 
 Right-click to start as an administrator.
 The file logo.png must continue to be in the same folder as the program.
+
+-------UPDATE v2.2-------
+Checkbox added: When activated, the program automatically closes after deleting the shaders and launching the launcher. 
+The state of the checkbox is stored in the CFG to maintain user preferences.
